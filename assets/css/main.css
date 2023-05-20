@@ -19,7 +19,7 @@
 
 /* Colors */
 :root {
-  --color-default: #98d8f8;
+  --color-default: #865DFF;
   --color-primary: #FFACAC;
   --color-secondary: #FBFFB1;
 }
@@ -106,7 +106,7 @@ section {
   padding: 60px 0 60px 0;
   min-height: 20vh;
   position: relative;
-  background-color: var(--color-primary);
+  background-color:#3A4F7A;
 }
 
 .breadcrumbs .page-header h2 {
@@ -1963,7 +1963,7 @@ section {
   padding: 60px 30px;
   position: relative;
   overflow: hidden;
-  background: #008d7d;
+  background: #865DFF;
   box-shadow: 0 0 29px 0 rgba(0, 0, 0, 0.08);
   transition: all 0.3s ease-in-out;
   border-radius: 8px;
@@ -1995,7 +1995,8 @@ section {
 }
 
 .hero .icon-box:hover {
-  background: #009786;
+  background: #B6EAFA;
+  color: black;
 }
 
 .hero .icon-box:hover .title a,
