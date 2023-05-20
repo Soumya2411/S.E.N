@@ -20,22 +20,22 @@ function Navbar() {
             <ul className="navbar-nav ml-auto">
                 <div className="hori-selector"><div className="left"></div><div className="right"></div></div>
                 <li className="nav-item">
-                    <a className="nav-link" href=" "><i className="fas fa-tachometer-alt"></i>Dashboard</a>
+                    <a className="nav-link" href=" "><i className="fas fa-tachometer-alt"></i>Hello User!</a>
                 </li>
                 <li className="nav-item active">
-                    <a className="nav-link" href=" "><i className="far fa-address-book"></i>Address Book</a>
+                    <a className="nav-link" href=" "><i className="far fa-address-book"></i>Tell us more questions</a>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link" href=" "><i className="far fa-clone"></i>Components</a>
+                    <a className="nav-link" href=" "><i className="far fa-clone"></i>What we do?</a>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link" href=" "><i className="far fa-calendar-alt"></i>Calendar</a>
+                    <a className="nav-link" href=" "><i className="far fa-calendar-alt"></i>Contact us</a>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link" href=" "><i className="far fa-chart-bar"></i>Charts</a>
+                    <a className="nav-link" href=" "><i className="far fa-chart-bar"></i>Intimate Hygiene</a>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link" href=" "><i className="far fa-copy"></i>Documents</a>
+                    <a className="nav-link" href=" "><i className="far fa-copy"></i>who we are?</a>
                 </li>
             </ul>
         </div>
