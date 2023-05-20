@@ -2,7 +2,6 @@ import React from 'react'
 import './Footer.css'
 
 
-
 function Footer() {
   return (
     <div>
@@ -10,7 +9,7 @@ function Footer() {
   
   </div>
   
-  <footer id="footer">
+  <footer id="footer" style={{background:'#FFACAC'}}>
     <div id="footer-content">
       <div className="footer-section">
         <h3 className="footer-section-title">General</h3>
